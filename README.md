@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonahBreslow
 - 👀 I’m interested in ML/DL & causal inference ... and powerlifting
 - 🌱 I’m currently learning about discrete optimization!
-- 💞️ I’m looking to collaborate on anything involving optimization algorithms, ML, or something that will get me paid. 
+- 💞️ I’m looking to collaborate on anything involving optimization algorithms, ML, fun programming challenges. 
 - 📫 How to reach me: instagram @thebook0fjonah
 
 <!---
