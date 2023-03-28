@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonahBreslow
 - 👀 I’m interested in ML/DL & causal inference ... and powerlifting
-- 🌱 I’m currently learning about Domain Driven Design!
+- 🌱 I’m currently learning about quite a few things
 - 📫 How to reach me: instagram @thebook0fjonah or jonahbreslow@gmail.com
 
 <!---
