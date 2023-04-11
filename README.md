@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JonahBreslow
-- 👀 I’m interested in ML/DL & causal inference ... and powerlifting
-- 🌱 I’m currently learning about quite a few things
+- 👀 I’m interested in ML/DL, causal inference, and becoming a vim master ... and powerlifting
 - 📫 How to reach me: instagram @thebook0fjonah or jonahbreslow@gmail.com
 
 <!---
